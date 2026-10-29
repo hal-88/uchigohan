@@ -1,0 +1,14 @@
+{
+  "name": "うちごはん帳",
+  "short_name": "うちごはん帳",
+  "description": "作った料理と作りたい料理を1冊に。材料をタップすると、今夜作れるものがわかる。",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f4ef",
+  "theme_color": "#f7f4ef",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
